@@ -1,7 +1,15 @@
 python-dotenv
 pandas
 numpy
-pymongo[srv]==3.11
+pymongo
 certifi
-flask
-##-e .
+pymongo[srv]
+scikit-learn
+mlflow
+pyaml
+dagshub
+fastapi
+uvicorn
+python-multipart
+
+-e .
